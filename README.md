@@ -17,4 +17,5 @@ Io.h: Contains functions related to program output functions.
 
 Main.c: Defines the main procedure of the program. Implementations of the two algorithms are also contained here.
 
-
+# ScreenShot
+![image](https://user-images.githubusercontent.com/72466785/180768829-0c99e840-9530-4b9c-874a-63b07457364e.png)
